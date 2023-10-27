@@ -1,6 +1,6 @@
-package Main;
+package main;
 
-import Threads.HiloCalculador;
+import threads.HiloCalculador;
 
 public class MainCalculador {
     
