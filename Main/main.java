@@ -1,7 +1,5 @@
 package Main;
 
-import Threads.HiloCalculador;
-
 public class MainCalculador {
     
     // SE QUIERE OBTENER LA SUMA DE TODOS LOS NUMEROS UE VAN DEL 1 AL 40.000.000
