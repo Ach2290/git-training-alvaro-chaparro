@@ -14,3 +14,15 @@
 12-nos volvemos a cambiar a la rama main y hacemos un merge de la rama que falta
 ***FIN**
 
+# Modificando el readme.md #
+Un ingeniero de Microsoft, uno de Apple y un desarrollador de Linux se encuentran en el baño.
+El de Microsoft acaba primero, y a la hora de lavarse las manos lo hace a conciencia, con mucho jabón y agua, y para secarse usa un montón de toallitas de papel, y dice:
+- Los de Microsoft, lo que hacemos lo hacemos bien.
+
+El ingeniero de Apple, también se lava a conciencia, pero utiliza muy poca agua y muy poco jabón, y para secarse utiliza una esquinita de una toallita de papel. Cuando acaba dice:
+
+- Los de Apple, además de hacerlo bien, lo optimizamos al máximo.
+
+El programador de Linux, sin lavarse, mira a los otros dos y dice:
+
+- Los de Linux no nos meamos en las manos…
